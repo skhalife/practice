@@ -1,5 +1,5 @@
 {
-  "name": "@skhalife/my-simple-demo",
+  "name": "@skhalife/practice",
   "version": "1.0.47",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/skhalife/my-simple-demo.git"
+    "url": "git://github.com/skhalife/practice.git"
   },
   "author": "Bryan Cross <bryancross@github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/octodemov2/actions-deploy-demo/issues"
   },
-  "homepage": "https://github.com/skhalife/my-simple-demo#readme",
+  "homepage": "https://github.com/skhalife/practice#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
