@@ -1,4 +1,4 @@
-name: Node CI
+name: Node CI for AmEx Demo
 
 on: [push]
 
